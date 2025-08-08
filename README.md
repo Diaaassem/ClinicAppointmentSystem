@@ -40,28 +40,30 @@ Follow these steps to set up and run the Clinic Appointment System on your local
 
 ClinicAppointmentSystem/
 ├── Data/
-│ ├── Patients.json
-│ ├── Doctors.json
-│ ├── Appointments.json
-│ ├── Payments.json
-│ ├── MedicalHistories.json
-│ ├── Logs.txt
+│   ├── Patients.json
+│   ├── Doctors.json
+│   ├── Appointments.json
+│   ├── Payments.json
+│   ├── MedicalHistories.json
+│   ├── Logs.txt
 ├── Managers/
-│ ├── ClinicManager.cs
-│ ├── FileManager.cs
-│ ├── PaymentManager.cs
-│ ├── ScheduleManager.cs
-│ ├── ILoggable.cs
+│   ├── ClinicManager.cs
+│   ├── FileManager.cs
+│   ├── PaymentManager.cs
+│   ├── ScheduleManager.cs
+│   ├── ILoggable.cs
 ├── Models/
-│ ├── Appointment.cs
-│ ├── Doctor.cs
-│ ├── Patient.cs
-│ ├── Payment.cs
-│ ├── MedicalHistory.cs
+│   ├── Appointment.cs
+│   ├── Doctor.cs
+│   ├── Patient.cs
+│   ├── Payment.cs
+│   ├── MedicalHistory.cs
 ├── Program.cs
 ├── ClinicAppointmentSystem.csproj
 ├── README.md
 
+
+---
 
 **Folders:**
 - **Data/**: Stores JSON files for persistent data and logs.
@@ -72,12 +74,4 @@ ClinicAppointmentSystem/
 
 ---
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature/your-feature
 
