@@ -12,7 +12,9 @@ namespace ClinicAppointmentSystem
 
             while (true)
             {
-                Console.WriteLine("\nWelcome to the Clinic Appointment System");
+                Console.WriteLine("*******************************************");
+                Console.WriteLine("Welcome to the Clinic Appointment System");
+                Console.WriteLine("*******************************************");
                 Console.WriteLine("1. Add Appointment");
                 Console.WriteLine("2. Update Appointment");
                 Console.WriteLine("3. Delete Appointment");
