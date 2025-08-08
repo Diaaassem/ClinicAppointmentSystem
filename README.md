@@ -38,6 +38,7 @@ Follow these steps to set up and run the Clinic Appointment System on your local
 
 ## Project Structure
 
+```plaintext
 ClinicAppointmentSystem/
 ├── Data/
 │   ├── Patients.json
@@ -61,7 +62,6 @@ ClinicAppointmentSystem/
 ├── Program.cs
 ├── ClinicAppointmentSystem.csproj
 ├── README.md
-
 
 ---
 
