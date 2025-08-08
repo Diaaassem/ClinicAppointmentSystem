@@ -1,0 +1,9 @@
+2025-08-08 15:48:49: Created Data directory
+2025-08-08 15:48:49: Created empty file: C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Patients.json
+2025-08-08 15:48:49: Created empty file: C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Doctors.json
+2025-08-08 15:48:49: Created empty file: C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Appointments.json
+2025-08-08 15:48:49: Created empty file: C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Payments.json
+2025-08-08 15:48:49: Loaded data from C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Patients.json
+2025-08-08 15:48:49: Loaded data from C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Doctors.json
+2025-08-08 15:48:49: Loaded data from C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Appointments.json
+2025-08-08 15:48:49: Loaded data from C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\Data\Payments.json

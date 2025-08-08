@@ -1,0 +1,56 @@
+E:\.Net Projects\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.exe
+E:\.Net Projects\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.deps.json
+E:\.Net Projects\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.runtimeconfig.json
+E:\.Net Projects\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.dll
+E:\.Net Projects\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.pdb
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfoInputs.cache
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfo.cs
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.csproj.CoreCompileInputs.cache
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.dll
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\refint\ClinicAppointmentSystem.dll
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.pdb
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.genruntimeconfig.cache
+E:\.Net Projects\ClinicAppointmentSystem\obj\Debug\net8.0\ref\ClinicAppointmentSystem.dll
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfo.cs
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.dll
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\refint\ClinicAppointmentSystem.dll
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.pdb
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\bin\Debug\net8.0\ClinicAppointmentSystem.exe
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\bin\Debug\net8.0\ClinicAppointmentSystem.deps.json
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\bin\Debug\net8.0\ClinicAppointmentSystem.runtimeconfig.json
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\bin\Debug\net8.0\ClinicAppointmentSystem.dll
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\bin\Debug\net8.0\ClinicAppointmentSystem.pdb
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ClinicAppointmentSystem.genruntimeconfig.cache
+C:\Users\GRAPHICS\Desktop\Clinic-Appointment-System-master\obj\Debug\net8.0\ref\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\answer\bin\Debug\net8.0\ClinicAppointmentSystem.exe
+C:\Users\Diaa5\OneDrive\Desktop\answer\bin\Debug\net8.0\ClinicAppointmentSystem.deps.json
+C:\Users\Diaa5\OneDrive\Desktop\answer\bin\Debug\net8.0\ClinicAppointmentSystem.runtimeconfig.json
+C:\Users\Diaa5\OneDrive\Desktop\answer\bin\Debug\net8.0\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\answer\bin\Debug\net8.0\ClinicAppointmentSystem.pdb
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfo.cs
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\refint\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.pdb
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ClinicAppointmentSystem.genruntimeconfig.cache
+C:\Users\Diaa5\OneDrive\Desktop\answer\obj\Debug\net8.0\ref\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.exe
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.deps.json
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.runtimeconfig.json
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\bin\Debug\net8.0\ClinicAppointmentSystem.pdb
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.AssemblyInfo.cs
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\refint\ClinicAppointmentSystem.dll
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.pdb
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ClinicAppointmentSystem.genruntimeconfig.cache
+C:\Users\Diaa5\OneDrive\Desktop\ClinicAppointmentSystem\obj\Debug\net8.0\ref\ClinicAppointmentSystem.dll
